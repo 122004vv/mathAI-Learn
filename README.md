@@ -1,6 +1,6 @@
 # ABOUT
 
-
+A simple flask app that takes in a mathematical expression and solves it:)
 
 ## EXECUTION
 
