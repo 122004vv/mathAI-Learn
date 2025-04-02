@@ -6,7 +6,7 @@ A simple flask app that takes in a mathematical expression and solves it:)
 
 To run the application , 
 - Clone the repository locally.
-- Checkout main branch.
+- Checkout master branch.
 - Install all the requirements from requirements.txt
 - run "python <Path-to-welcome.py>"
 
